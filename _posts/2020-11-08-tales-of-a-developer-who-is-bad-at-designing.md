@@ -4,7 +4,7 @@ title:  "Tales of a developer who is bad at designing"
 date:   2020-11-08 15:00:00 +0200
 categories: []
 ---
-The different aspects of software development can be both a blessing and a curse: On the one hand I love creative problem solving, on the other hand I'm terrible with designing UI.
+The different aspects of software development can be both a blessing and a curse: On the one hand I love creative problem solving, on the other hand I'm terrible at designing UIs.
 
 Ever since I started getting into programming, I've worked on numerous private projects, most of which I've abandoned after a couple of weeks. The different reasons for abandonment were never technical but always design related - in my opinion the technical aspect of software development is somewhat easy (take this statement with a grain of salt). 
 
