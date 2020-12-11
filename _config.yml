@@ -21,6 +21,7 @@ baseurl: /dev-progress
 url: https://juliastic.github.io
 twitter_username: juliastic
 github_username:  juliastic
+linkedin_username: juliagrill
 
 # Build settings
 markdown: kramdown
